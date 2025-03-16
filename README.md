@@ -3,30 +3,22 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Ramiro<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hola, soy Ramiro<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+
+<h3 align="center"> Un apasionado desarrollador mexicano. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F5dGh2MDRkNmI3c3RuZmdhMmRyZXZ1MmtzbjhwMHp4ZHBxdDdvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI7WC5d4IFLcKfS/giphy.gif" width="30" alt="Waving Hand"> </h3>
+
+👨‍💻 Actualmente estoy realizando una pasantía en Fiacon
+
+💻 Actualmente estoy aprendiendo React Native y Asp.net C#
+
+✨ Lo que me distingue: Me enorgullece ser metódico, detallista y enfocado en crear código seguro.
+
+🎨 Pasión por el diseño: Estoy experimentando con Tailwind CSS, Bootstrap y React Native para crear diseños visualmente impresionantes, responsivos y fáciles de usar tanto en plataformas web como móviles.
+
+🎯 Metas: Trabajo para dominar el desarrollo backend y mejorar mis habilidades en la creación de aplicaciones robustas y seguras con ASP.NET MVC.
 
 
-<h3 align="center">
-  A passionate developer and a student from México.
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F5dGh2MDRkNmI3c3RuZmdhMmRyZXZ1MmtzbjhwMHp4ZHBxdDdvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI7WC5d4IFLcKfS/giphy.gif" width="30" alt="Waving Hand">
-</h3>
-
-
-
-- 👨‍💻 I’m currently doing an intership at [Fiacon](https://fiacon.mx/)
-
-- 💻 I’m currently learning React Native and Asp.net c# 
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
-- ✨ What sets me apart: I take pride in being methodical, detail-oriented, and focused on delivering secure code.
-
-- 🎨 Design Passion: Experimenting with Tailwind CSS, Bootstrap, and React Native to create visually stunning, responsive, and user-friendly designs across web and mobile platforms.
-
-- 🎯 Goals: Working towards mastering backend development and enhancing my skills in creating robust, secure applications with ASP.NET MVC.
-
-
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h2 align="center"><u><b>Lenguages</b></u></h2>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
@@ -62,7 +54,7 @@
 </p>
 
 
-<h2 align="center"><u><b>Contact</b></u></h2>
+<h2 align="center"><u><b>Contacto</b></u></h2>
 
 <p align="center">
 
