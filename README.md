@@ -7,7 +7,8 @@
 
 <h3 align="center"> Un apasionado desarrollador mexicano. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F5dGh2MDRkNmI3c3RuZmdhMmRyZXZ1MmtzbjhwMHp4ZHBxdDdvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI7WC5d4IFLcKfS/giphy.gif" width="30" alt="Waving Hand"> </h3>
 
-👨‍💻 Actualmente estoy realizando una pasantía en Fiacon
+👨‍💻 Actualmente estoy realizando una pasantía en <a href="https://fiacon.mx/" target="_blank" rel="noopener noreferrer">Fiacon</a>
+
 
 💻 Actualmente estoy aprendiendo React Native y Asp.net C#
 
