@@ -10,11 +10,11 @@
 👨‍💻 Actualmente estoy realizando una pasantía en <a href="https://fiacon.mx/" target="_blank" rel="noopener noreferrer">Fiacon</a>
 
 
-💻 Actualmente estoy aprendiendo React Native y Asp.net C#
+💻 Actualmente estoy usando Asp.net C#
 
 ✨ Lo que me distingue: Me enorgullece ser metódico, detallista y enfocado en crear código seguro.
 
-🎨 Pasión por el diseño: Estoy experimentando con Tailwind CSS, Bootstrap y React Native para crear diseños visualmente impresionantes, responsivos y fáciles de usar tanto en plataformas web como móviles.
+🎨 Pasión por el diseño: Estoy experimentando con Tailwind CSS, Bootstrap y React para crear diseños visualmente impresionantes, responsivos y fáciles de usar tanto en plataformas web como móviles.
 
 🎯 Metas: Trabajo para dominar el desarrollo backend y mejorar mis habilidades en la creación de aplicaciones robustas y seguras con ASP.NET MVC.
 
